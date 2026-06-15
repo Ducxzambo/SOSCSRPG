@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Engine.Models;
 
-namespace Engine.Factory
+namespace Engine.Factories
 {
     internal static class WorldFactory
     {
