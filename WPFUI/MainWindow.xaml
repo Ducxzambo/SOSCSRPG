@@ -118,7 +118,6 @@
             </TabControl>
         </Grid>
         
-        <Label Grid.Row="2" Grid.Column="1" Content="Combat/Movement Controls" Background="Lavender"/>
         <Grid Grid.Row="2" Grid.Column="1" Background="Lavender">
             <Grid.RowDefinitions>
                 <RowDefinition Height="*"/>
